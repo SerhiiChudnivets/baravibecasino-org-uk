@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /trackback/
 Disallow: /play/*
 
-Sitemap: https://spinwintercasino.org.uk/sitemap.xml
+Sitemap: https://baravibecasino.org.uk/sitemap.xml
