@@ -4,7 +4,7 @@
   "html_head": "<meta name=\"google-site-verification\" content=\"ymlydnVTZsXpVj1kjVQJwbsM7MGSxc2zL5qWSO4Vf1w\" />\n<link rel=\"canonical\" href=\"https://baravibecasino.org.uk/\">\n",
   "template": "tupchiy",
   "language_code": "en-GB",
-  "allow_indexing": false,
+  "allow_indexing": true,
   "redirect_404s_to_homepage": true,
   "use_www_version": false,
   "breadcrumbs": true,
@@ -469,8 +469,8 @@
     }
   ],
   "url": "baravibecasino.org.uk",
-  "_generated_at": "2026-11-25T14:56:12.299Z",
+  "_generated_at": "2026-11-25T15:00:25.321Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-25T14:56:13.081Z",
-  "_deploy_trigger": "b9a3w"
+  "_last_deploy": "2026-11-25T15:00:26.180Z",
+  "_deploy_trigger": "50nw5"
 }
