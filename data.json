@@ -126,9 +126,9 @@
       "seoDescription": "Access your BaraVibe Casino account, manage your balance, track rewards and complete identity verification. Sign in securely on desktop or mobile.",
       "htmlHead": "<link rel=\"canonical\" href=\"https://baravibecasino.org.uk/login/\">",
       "gptPrompt": "",
-      "heroTitle": "18+ | T&Cs Apply | Play Responsibly",
+      "heroTitle": "BaraVibe Casino Login",
       "heroSubtitle": "Your Games, Balance & Rewards Await",
-      "heroBadge": "Return to Your Account",
+      "heroBadge": "18+ | T&Cs Apply | Play Responsibly",
       "ctaText": "Log In",
       "tagline": "Sign In to Your Personal Account",
       "heroImage": "/uploads/baravibe-login-banner.webp",
@@ -469,8 +469,8 @@
     }
   ],
   "url": "baravibecasino.org.uk",
-  "_generated_at": "2026-11-25T15:00:25.321Z",
+  "_generated_at": "2026-11-26T11:57:52.697Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-25T15:00:26.180Z",
-  "_deploy_trigger": "50nw5"
+  "_last_deploy": "2026-11-26T11:57:53.368Z",
+  "_deploy_trigger": "wj46fc"
 }
