@@ -296,7 +296,7 @@
   "button_background": "#6456f4",
   "button_text_color": "#ffffff",
   "text_color": "#ffffff",
-  "color_highlight_text": "#6456f4",
+  "color_highlight_text": "#fafafa",
   "color_main_btn_text": "#ffffff",
   "cta_background": "#6456f4",
   "logo": {
@@ -469,8 +469,8 @@
     }
   ],
   "url": "baravibecasino.org.uk",
-  "_generated_at": "2026-11-26T11:57:52.697Z",
+  "_generated_at": "2026-11-26T12:59:10.883Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-26T11:57:53.368Z",
-  "_deploy_trigger": "wj46fc"
+  "_last_deploy": "2026-11-26T12:59:11.656Z",
+  "_deploy_trigger": "i3n33r"
 }
